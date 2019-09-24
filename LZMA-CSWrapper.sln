@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LZMA-CSWrapper", "src\LZMA-CSWrapper.csproj", "{E4D9F0FD-6DCD-448F-ADC0-E608600DA79B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "samples", "samples\samples.csproj", "{3548DC1C-7444-4114-99CD-B0A2C7B30E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D9F0FD-6DCD-448F-ADC0-E608600DA79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D9F0FD-6DCD-448F-ADC0-E608600DA79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D9F0FD-6DCD-448F-ADC0-E608600DA79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D9F0FD-6DCD-448F-ADC0-E608600DA79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3548DC1C-7444-4114-99CD-B0A2C7B30E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3548DC1C-7444-4114-99CD-B0A2C7B30E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3548DC1C-7444-4114-99CD-B0A2C7B30E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3548DC1C-7444-4114-99CD-B0A2C7B30E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {617C8D38-C956-4033-87A2-FA42E9CDAC16}
+	EndGlobalSection
+EndGlobal
